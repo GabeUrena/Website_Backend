@@ -1,0 +1,22 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GabeUrena/Website_Backend.git"
+  },
+  "author": "Gabriel Urena & Isaias Urena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabeUrena/Website_Backend/issues"
+  },
+  "homepage": "https://github.com/GabeUrena/Website_Backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
